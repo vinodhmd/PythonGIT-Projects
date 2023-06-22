@@ -62,6 +62,6 @@ btn_0.grid(row=4,column=0)
 btn_clear.grid(row=4,column=1,columnspan=2)
 btn_add.grid(row=5,column=0)
 btn_equal.grid(row=5,column=1,columnspan=2)
-
+# All#
 # End of the lines #
 root.mainloop()
